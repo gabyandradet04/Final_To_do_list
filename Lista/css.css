@@ -1,0 +1,8 @@
+.urgente {
+	color: red;
+	font-weight: bold;
+}
+
+.borrado {
+	display: none;
+}
